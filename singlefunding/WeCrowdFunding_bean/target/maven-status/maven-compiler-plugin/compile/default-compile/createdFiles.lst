@@ -1,0 +1,16 @@
+com\leo\pojo\Permission.class
+com\leo\pojo\TypeCert.class
+com\leo\pojo\Cert.class
+com\leo\pojo\Icon.class
+com\leo\pojo\UserInfo.class
+com\leo\pojo\AuthProcess.class
+com\leo\pojo\PermissionNode.class
+com\leo\pojo\MemberCert.class
+com\leo\pojo\Node.class
+com\leo\pojo\AssignRoleBean.class
+com\leo\pojo\Process.class
+com\leo\App.class
+com\leo\pojo\Role.class
+com\leo\pojo\PageBean.class
+com\leo\pojo\TestUser.class
+com\leo\pojo\Member.class

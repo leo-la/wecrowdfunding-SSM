@@ -1,0 +1,14 @@
+com\leo\manager\dao\IPermissionDao.class
+com\leo\manager\service\ITestService.class
+com\leo\manager\service\IUserService.class
+com\leo\manager\service\IPermissionService.class
+com\leo\manager\dao\IUserDao.class
+com\leo\manager\dao\BaseDao.class
+com\leo\manager\service\IAuthService.class
+com\leo\manager\dao\ITestDao.class
+com\leo\manager\service\IBusinessService.class
+com\leo\App.class
+com\leo\manager\service\IProcessService.class
+com\leo\manager\dao\IBusinessDao.class
+com\leo\manager\dao\IAuthDao.class
+com\leo\manager\service\IMainService.class
